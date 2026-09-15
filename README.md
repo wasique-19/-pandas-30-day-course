@@ -116,7 +116,7 @@ pandas-30-day-course/
 Clone the repo and run any day's scripts individually:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/pandas-30-day-course.git
+git clone https://github.com/wasique-19/pandas-30-day-course.git
 cd pandas-30-day-course/Day01_Introduction_to_Pandas
 python practice.py
 ```
