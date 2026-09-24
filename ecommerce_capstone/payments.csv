@@ -1,0 +1,9 @@
+PaymentID,OrderID,PaymentMethod,PaymentStatus
+9001,1001,Credit Card,Completed
+9002,1002,UPI,Completed
+9003,1003,Cash,Completed
+9004,1004,Credit Card,Completed
+9005,1005,UPI,Completed
+9006,1006,Debit Card,Completed
+9007,1007,UPI,Completed
+9008,1008,Credit Card,Completed
